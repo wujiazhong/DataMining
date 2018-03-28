@@ -53,9 +53,12 @@ public class Test {
         testRecords.add(record17);
         testRecords.add(record18);
         testRecords.add(record19);
+        testRecords.add(record20);
 
         DataInfo info = new DataInfo(trainingRecords);
-        System.out.println(info.test(record20));
+        for (BaseRecord record : testRecords) {
+            System.out.println(info.test((HumanAttrRecord)record));
+        }
 
     }
 }
