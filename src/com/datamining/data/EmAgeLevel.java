@@ -1,4 +1,4 @@
-package com.adi.datamining.decisiontree.data;
+package com.datamining.data;
 
 /**
  * Created by wudi10 on 2016/1/22.

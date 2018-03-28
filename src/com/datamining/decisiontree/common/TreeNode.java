@@ -1,4 +1,4 @@
-package com.adi.datamining.decisiontree.common;
+package com.datamining.decisiontree.common;
 
 import java.util.List;
 

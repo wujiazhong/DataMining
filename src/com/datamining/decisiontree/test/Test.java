@@ -1,10 +1,10 @@
-package com.adi.datamining.decisiontree.test;
+package com.datamining.decisiontree.test;
 
-import com.adi.datamining.decisiontree.algorithm.BaseAttrSelector;
-import com.adi.datamining.decisiontree.algorithm.DecisionTree;
-import com.adi.datamining.decisiontree.algorithm.IAttrSelector;
-import com.adi.datamining.decisiontree.common.TreeNode;
-import com.adi.datamining.decisiontree.data.*;
+import com.datamining.data.*;
+import com.datamining.decisiontree.algorithm.BaseAttrSelector;
+import com.datamining.decisiontree.algorithm.DecisionTree;
+import com.datamining.decisiontree.algorithm.IAttrSelector;
+import com.datamining.decisiontree.common.TreeNode;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;

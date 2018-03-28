@@ -1,7 +1,7 @@
-package com.adi.datamining.decisiontree.algorithm;
+package com.datamining.decisiontree.algorithm;
 
-import com.adi.datamining.decisiontree.data.BaseRecord;
-import com.adi.datamining.decisiontree.common.TreeNode;
+import com.datamining.data.BaseRecord;
+import com.datamining.decisiontree.common.TreeNode;
 
 import java.lang.reflect.Field;
 import java.util.ArrayList;
